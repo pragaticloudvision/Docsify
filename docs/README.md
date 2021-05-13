@@ -10,7 +10,7 @@
 
 
 <!-- TODO: You can delete the About and Create a Docsify site sections if you create a new project from this template -->
-<b>Made by Pragati Singh</b>
+
 ## About
 
 This is a template for a simple but elegant docs site built on _Docsify_ which magically turns your markdown in your `docs` directory into a docs site. 
@@ -33,6 +33,7 @@ Click the button below to create your own copy of this repo.
     <a href="https://github.com/MichaelCurrin/docsify-js-template/generate">
         <img src="https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge" alt="Use this template">
     </a>
+ <b>Made by Pragati Singh</b>
 </div>
 
 Then follow instructions in the original GitHub repo's `README.md` file to setup your own docs site like this one.
