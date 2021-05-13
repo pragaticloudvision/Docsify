@@ -1,4 +1,4 @@
-# DocsifyJS Template 📒 🕸
+# DocsifyJS Template Demo 📒 🕸
 > Starter template for a markdown-based docs site
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/MichaelCurrin/docsify-js-template/tags/?include_prereleases&sort=semver)
